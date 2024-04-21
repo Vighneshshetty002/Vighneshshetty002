@@ -32,4 +32,5 @@
 <br/>
 <center><h1>Our Products:</h1></center>
 <img src="WhatsApp_Image_2024-04-17_at_07.30.30_dc951d9d-removebg-preview.png" width="250px">
-<img src=" width="250px">
+<img src="Rishi White.png width="250px">
+<br/>
