@@ -25,12 +25,13 @@
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="animated gif" />
 
-<img src="https://raw.githubusercontent.com/Vighneshshetty002/Vighneshshetty002/output/
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vighneshshetty002/Vighneshshetty002/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
 <br/>
 <br/>
 <center><h1>Our Products:</h1></center>
-<img src="WhatsApp_Image_2024-04-17_at_07.30.30_dc951d9d-removebg-preview.png" width="250px">
-<img src="Rishi White.png" width="250px">
+<div style="display: flex; justify-content: space-around;">
+  <img src="WhatsApp_Image_2024-04-17_at_07.30.30_dc951d9d-removebg-preview.png" width="250px">
+  <img src="Rishi White.png" width="250px">
+</div>
 <br/>
