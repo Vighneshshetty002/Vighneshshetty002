@@ -29,9 +29,11 @@
 
 <br/>
 <br/>
+
 <center><h1>Our Products:</h1></center>
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="WhatsApp_Image_2024-04-17_at_07.30.30_dc951d9d-removebg-preview.png" width="250px" style="margin-top: 0px; padding-top: 10px;">
   <img src="Rishi White.png" width="150px" style="margin-top: 5px;">
 </div>
 <br/>
+
