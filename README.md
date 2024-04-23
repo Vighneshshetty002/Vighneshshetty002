@@ -45,7 +45,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="VS Tech.png" width="160px" style="margin-top: 0px; padding-top: 10px;">
   <img src="Rishi White.png" width="150px" style="margin-top: 5px;">
-  <img src="Vesahh-Eon Label-[White].png" width="150px;" style="margin-top: 5px;">
+  <img src="Vesahh-Eon Label-[White].png" width="150px;" style="margin-top: 0px;">
       
 </div>
 <br/>
