@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **some projects to bascially learn how stuffs are created/build**
+🔭 I’m currently working on **some projects to basically learn how stuffs are created/built**
  
  🌱 I’m currently Learning, Exploring, and Experimenting in **Full Stack Web Development**
 
@@ -45,8 +45,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="VS Tech.png" width="160px" style="margin-top: 0px; padding-top: 10px;">
   <img src="Rishi White.png" width="150px" style="margin-top: 5px;">
-  <img src="Vesahh-Eon Label-[White].png" width="150px;" style="margin-top: 0px; padding-top: 10px;">
-      
+  <img src="Vesahh-Eon Label-[White].png" width="150px" style="margin-top: 5px;">     
 </div>
 <br/>
 
@@ -55,7 +54,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Vighneshshetty002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Vighneshshetty002&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Vighneshshetty002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vighneshshetty002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
@@ -64,7 +63,3 @@
 <br/><br/>
 
 <hr/>
-
-
-
-<br/>
