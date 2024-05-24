@@ -41,13 +41,14 @@
 <br/>
 <br/>
 
-<center><h1>Our Products:</h1>
+<center><h1>Our Products:</h1></center>
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <a href="https://vighneshshetty002.github.io/Mr.-Gogo-Cafe/extra.html"><img src="VS Tech.png" width="160px" style="margin-top: 0px; padding-top: 10px;">
+ <center><a href="https://vighneshshetty002.github.io/Mr.-Gogo-Cafe/extra.html"><img src="VS Tech.png" width="160px" style="margin-top: 0px; padding-top: 10px;">
   <a href="https://youtube.com/@rishimind.?si=fcXm8YqAfKIylf2P"><img src="Rishi White.png" width="150px" style="margin-top: 0px; padding-top: 10px;">
-  <a href="https://store6198.store.link/"><img src="Vesahh-Eon Label-[White].png" width="150px" style="margin-top: 0px; padding-top: 10px;">     
+  <a href="https://store6198.store.link/"><img src="Vesahh-Eon Label-[White].png" width="150px" style="margin-top: 0px; padding-top: 10px;">     </center>
 </div>
-</center>
+
 
 <br/>
 
