@@ -66,3 +66,5 @@
 <br/><br/>
 
 <hr/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vighneshshetty002&bg_color=000000&color=ffffff&line=fafafa&point=570000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
