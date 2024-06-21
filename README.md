@@ -12,7 +12,9 @@
     <br/>
     ⚡ Fun fact: Did you know that the first computer virus was created in 1983 by Fred Cohen and was called the "brain" virus?
 </div>
-
+<br/>
+<br/>
+<hr>
 
 <div align="center"> 
   <a href="mailto:vighneshshetty002@gmail.com">
@@ -31,3 +33,4 @@
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
+<hr>
