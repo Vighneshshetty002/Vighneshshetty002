@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vighnesh+Shetty!;" />
@@ -36,14 +35,13 @@
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="animated gif" />
 
-<img src="https://raw.githubusercontent.com/Vighneshshetty002/Vighneshshetty002/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
 <br/>
 <br/>
 
 <center><h1>Our Products:</h1></center>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: inline-center; justify-content: space-between; align-items: flex-start;">
  <center><a href="https://vighneshshetty002.github.io/Mr.-Gogo-Cafe/extra.html"><img src="VS Tech.png" width="160px" style="margin-top: 0px; padding-top: 10px;">
   <a href="https://youtube.com/@rishimind.?si=fcXm8YqAfKIylf2P"><img src="Rishi White.png" width="150px" style="margin-top: 0px; padding-top: 10px;">
   <a href="https://store6198.store.link/"><img src="Vesahh-Eon Label-[White].png" width="150px" style="margin-top: 0px; padding-top: 10px;">     </center>
