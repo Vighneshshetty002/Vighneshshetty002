@@ -24,4 +24,10 @@
     <a href="https://www.linkedin.com/in/vighnesh-shetty-8a24ba259?trk=contact-info">
      <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo" />   
     </a>
+    <a href="https://youtube.com/@rishimind.?si=OKteuxkvEk9NSn2W">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTubelogo" />
+  </a>
+     <a href="https://instagram.com/vighneshshettymusic">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
 </div>
