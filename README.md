@@ -115,6 +115,23 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, dedicated to craf
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">KYC</h3>
+      <div align="center">
+        <a href="https://college-rating-system.vercel.app/" target="_blank">
+          <img src="Logo/KYC.png" width="180" alt="Gogo's Cafe"/>
+        </a>
+        <br/>
+        <br/>
+        <p><strong>College Review And Rating System</strong></p>
+        <p>Peer-verified anonymous college rating system enabling honest feedback with community-driven validation</p>
+        <a href="https://college-rating-system.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Site-success?style=for-the-badge" alt="Live Site"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <br/>
