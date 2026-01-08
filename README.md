@@ -60,11 +60,26 @@
 
 <center><h1>Our Products:</h1></center>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
- <center><a href="https://vighneshshetty002.github.io/Mr.-Gogo-Cafe/extra.html"><img src="VS Tech.png" width="160px" style="margin-top: 0px; padding-top: 10px;">
-  <a href="https://youtube.com/@rishimind.?si=fcXm8YqAfKIylf2P"><img src="Rishi White.png" width="150px" style="margin-top: 0px; padding-top: 10px;">
-  <a href="https://store6198.store.link/"><img src="Vesahh-Eon Label-[White].png" width="150px" style="margin-top: 0px; padding-top: 10px;">     </center>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; text-align: center;">
+
+  <a href="https://vighneshshetty002.github.io/Mr.-Gogo-Cafe/extra.html" target="_blank">
+    <img src="VS Tech.png" width="160" alt="VS Tech">
+  </a>
+
+  <a href="https://youtube.com/@rishimind.?si=fcXm8YqAfKIylf2P" target="_blank">
+    <img src="Rishi White.png" width="150" alt="Rishi Mind">
+  </a>
+
+  <a href="https://www.veshheon.in/" target="_blank">
+    <img src="https://res.cloudinary.com/dmrlotfsv/image/upload/t_VESHH-EON_WEBSITE/VESHH-EON_TYPE_WHITE_f3gm0u" width="150" alt="Veshh-Eon">
+  </a>
+
+  <a href="https://www.dripptour.in/" target="_blank">
+    <img src="https://res.cloudinary.com/dukimifv5/image/upload/t_For_Website/Artboard_3_4x_zf9we6" width="150" alt="Dripp Tour">
+  </a>
+
 </div>
+
 
 
 <br/>
