@@ -92,8 +92,8 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, dedicated to craf
         </a>
         <br/>
         <br/>
-        <p><strong>Restaurant Ordering System</strong></p>
-        <p>Modern food ordering platform with real-time cart updates and checkout functionality</p>
+        <p><strong>Cafe Website</strong></p>
+        <p>Responsive cafe website showcasing menu items and ambiance with modern design</p>
         <a href="https://royal-kings-pizzeria.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-Site-success?style=for-the-badge" alt="Live Site"/>
         </a>
@@ -107,8 +107,8 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, dedicated to craf
         </a>
         <br/>
         <br/>
-        <p><strong>Cafe Website</strong></p>
-        <p>Responsive cafe website showcasing menu items and ambiance with modern design</p>
+        <p><strong>Restaurant Ordering System</strong></p>
+        <p>Modern food ordering platform with real-time cart updates and checkout functionality</p>
         <a href="https://vighneshshetty002.github.io/Mr.-Gogo-Cafe/extra.html" target="_blank">
           <img src="https://img.shields.io/badge/Live-Site-success?style=for-the-badge" alt="Live Site"/>
         </a>
