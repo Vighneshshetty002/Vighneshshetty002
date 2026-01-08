@@ -57,6 +57,16 @@
         <img src="https://res.cloudinary.com/dukimifv5/image/upload/t_For_Website/Artboard_3_4x_zf9we6" width="150" alt="Dripp Tour"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://royal-kings-pizzeria.vercel.app/">
+        <img src="Logo/Logo.PNG" width="150" alt="Royal King's"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.dripptour.in/">
+        <img src="Logo/gogo-cafe-white.png" width="150" alt="Gogo's Cafe"/>
+      </a>
+    </td>
   </tr>
 </table>
 
