@@ -35,25 +35,31 @@
 </div>
 <hr>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="javascript logo" />
-  <!-- Add more technology icons here -->
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://vighneshshetty002.github.io/Mr.-Gogo-Cafe/extra.html">
+        <img src="VS Tech.png" width="160" alt="VS Tech"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/@rishimind.?si=fcXm8YqAfKIylf2P">
+        <img src="Rishi White.png" width="150" alt="Rishi Mind"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.veshheon.in/">
+        <img src="https://res.cloudinary.com/dmrlotfsv/image/upload/t_VESHH-EON_WEBSITE/VESHH-EON_TYPE_WHITE_f3gm0u" width="150" alt="Veshh-Eon"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.dripptour.in/">
+        <img src="https://res.cloudinary.com/dukimifv5/image/upload/t_For_Website/Artboard_3_4x_zf9we6" width="150" alt="Dripp Tour"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 
