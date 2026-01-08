@@ -75,8 +75,8 @@ I'm a passionate **Full Stack Developer** from India 🇮🇳, dedicated to craf
         </a>
         <br/>
         <br/>
-        <p><strong>Tour & Travel Platform</strong></p>
-        <p>Complete travel booking solution with dynamic package management and user authentication</p>
+        <p><strong>Clothing E-commerce Marketplace</strong></p>
+        <p>Multi-vendor e-commerce marketplace connecting fashion brands and customers with seamless product listings and order management</p>
         <a href="https://www.dripptour.in/" target="_blank">
           <img src="https://img.shields.io/badge/Live-Site-success?style=for-the-badge" alt="Live Site"/>
         </a>
